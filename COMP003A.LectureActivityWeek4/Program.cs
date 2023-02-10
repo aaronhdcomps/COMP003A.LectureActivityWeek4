@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Aaron Abramson
  * Course: COMP-003A
- * Purpose: Lecture activity for week 3
+ * Purpose: Lecture activity for week 4
  * Reference: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements
 */
 
